@@ -2,7 +2,7 @@ import React from "react";
 
 const App = () => {
   return (
-    <div className="pt-24">
+    <div className="py-24">
       <div className="w-[800px] pb-5 mx-auto border-[8px] border-primary">
         <div className="flex justify-center items-center flex-col mt-3 border-b-4 border-primary">
           <img
