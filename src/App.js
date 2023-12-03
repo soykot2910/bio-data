@@ -7,7 +7,7 @@ const App = () => {
         <div className="flex justify-center items-center flex-col mt-3 border-b-4 border-primary">
           <img
             className="w-[150px] h-[150px] rounded-full"
-            src="https://i.pinimg.com/736x/40/24/1f/40241fcf40f703776fbe3ffcca0d3bcc.jpg"
+            src="logo.png"
           />
           <h3 className="text-primary font-bold text-[24px] mb-2">
             <span className="italic mx-1">"Bismilllahir Rahmanir Rahim"</span>{" "}
